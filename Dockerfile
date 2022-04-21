@@ -1,5 +1,5 @@
   
-FROM theyoctojester/devcontainer-base-yoep
+FROM theyoctojester/devcontainer-base-yoep:focal
 
 ### Local user ###
 # '-l': see https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#user
